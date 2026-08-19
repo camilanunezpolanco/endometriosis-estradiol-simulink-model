@@ -1,0 +1,9 @@
+*.slxc
+slprj/
+simulation_cache/
+codegen/
+*.autosave
+*.asv
+*.m~
+.DS_Store
+
